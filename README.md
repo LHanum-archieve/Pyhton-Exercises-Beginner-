@@ -13,13 +13,13 @@ Repository ini dibuat dengan tujuan:
   
 ## Cara Menjalankan Program
 1. Clone repository
-   '''bash
+   ```bash
    git clone <URL-repository>
 3. Masuk ke direktori repository
-   '''bash
+   ```bash
    cd nama-folder-repository
 5. Jalankan berkas Python yang diinginkan
-   '''bash
+   ```bash
    python3 nama_file.py
 Seluruh latihan menggunakan modul bawaan Python dan tidak memerlukan dependensi tambahan.
 
